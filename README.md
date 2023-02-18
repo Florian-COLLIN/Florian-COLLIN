@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Florian-COLLIN
-- 👀 I’m interested in cycling, an technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cycling, journalism and technology
+- I want to become a journalism
 
 <!---
 Florian-COLLIN/Florian-COLLIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
